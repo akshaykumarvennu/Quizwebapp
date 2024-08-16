@@ -1,0 +1,30 @@
+.App {
+  background-color: lightblue;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; 
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 600px;
+  height: fit-content;
+  padding: 20px;
+  box-shadow: 8px 8px 32px 0px darkblue;
+  border-radius: 12px;
+}
+button {
+  cursor: pointer;
+  background-color: lightskyblue;
+  color: #1a4f6e;
+  border: none;
+  padding: 8px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+}
+button:hover {
+  background-color: darkblue;
+}

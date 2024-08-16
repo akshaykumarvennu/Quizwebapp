@@ -1,0 +1,1 @@
+A straightforward quiz application built with React, designed for testing knowledge in various categories. Users can choose from different categories such as General Knowledge, Geography, History, Science, and Aptitude. The app provides a simple and engaging way to challenge yourself with a set of multiple-choice questions.
